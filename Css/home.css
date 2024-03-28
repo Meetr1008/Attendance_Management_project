@@ -2,7 +2,7 @@
 
 * {
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto";
 }
 
 nav {
@@ -26,7 +26,7 @@ nav ul {
   display: flex;
   font-size: 24px;
   font-weight: 500;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto";
   line-height: 28.23px;
 }
 
@@ -34,7 +34,7 @@ nav li {
   padding: 20px 20px;
   font-size: 24px;
   font-weight: 500;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto";
   line-height: 28.23px;
 }
 
@@ -68,7 +68,7 @@ nav .img img {
 }
 
 .center-div {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto";
   font-weight: 400px;
   font-size: 32px;
   line-height: 37.5px;
@@ -98,7 +98,7 @@ a {
 
 select {
   color: black;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto";
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
@@ -116,7 +116,7 @@ select {
 }
 
 .refresh-div {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto";
   font-weight: 400;
   text-decoration: underline;
   text-decoration-color: #257de4;
@@ -161,7 +161,7 @@ select {
   font-size: 18px;
   justify-content: space-around;
 
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto";
   text-align: center;
 }
 
@@ -191,7 +191,7 @@ select {
 
   select {
     color: black;
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto";
     font-weight: 400;
     font-size: 16px;
     line-height: 18px;
